@@ -1,21 +1,37 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .content{
     line-height: 1.6;
-
+    margin:10px;
+    padding:10px;
 }
 
 .container .flex {
     display:flex;
-    
 
 }
  h1, h2
  {
     margin:10px; 
  }
-=======
-=======
+a{
+    text-decoration: none;
+}
+
+p{
+    margin:20px;
+}
+
+ .ad{
+    
+    height:auto;
+    width:100%;
+    border:black solid 1px;
+ }
+
+
+
+
+
 
 #sidebar{
     position: fixed;
@@ -27,6 +43,7 @@
     background-color: rgb(46, 40, 40);
     display: flex;
     flex-direction: column;
+    display:none;
 }
 .sidebar-title{
     font-size: 2.2rem;
@@ -42,6 +59,7 @@
 #sidebar li{
     padding: 10px 0 5px 10px;
     list-style: none;
+    
 }
 .scrollbox{
     overflow: auto;
@@ -52,8 +70,8 @@
 ::-webkit-scrollbar-thumb {
     background-color: lightblue;
     border-radius: 10px;
+}
 
->>>>>>> 6185914bb5c59ef3ef747ac9e9f1dc5c5c217840
 * {
     margin: 0;
     padding: 0;
@@ -67,10 +85,5 @@ footer {
     height: 2.5rem;
     border: 10px solid red;
 
-<<<<<<< HEAD
-}
->>>>>>> 4f86b190dad7671141a1a77b288b22aad6f428e2
-=======
 
 }
->>>>>>> 6185914bb5c59ef3ef747ac9e9f1dc5c5c217840
