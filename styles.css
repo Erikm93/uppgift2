@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background: lightgreen;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    border: 10px solid red;
+
+}
