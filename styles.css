@@ -38,8 +38,7 @@ nav {
 }
 .navbar2 a:hover {
     background: lightcoral;
-    padding: 10px;
-    margin: 10px;
+   
 }
 .topnav {
     align-content: center;
@@ -56,7 +55,7 @@ li {
     padding: 15px;
     cursor: pointer;
     color: black;
-    padding: 0;
+    
 }
 
 #sidebar{
@@ -98,10 +97,10 @@ li {
 }
 
 footer {
-    position: fixed;
     background: lightgreen;
+    position: absolute;
     bottom: 0;
     width: 100%;
-    height: 2rem;
-    border: 7px solid red;
+    height: 2.5rem;
+    border: 8px solid red;
 }
